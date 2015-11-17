@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/treinamentomobile/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M1/6abb1e22445a4e4571c74632804e4179b43d82b5/spring-android-rest-template-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6abb1e22445a4e4571c74632804e4179b43d82b5">
+        <dex dex="/Users/treinamentomobile/Downloads/android_trainning-master/Brasileirao_Placar2015/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-2.0.0.M1-16e9045ac98b5ba0b47efd36e7fdb55393b58a72.jar" />
+    </item>
+    <item
+        jar="/Users/treinamentomobile/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/treinamentomobile/Downloads/android_trainning-master/Brasileirao_Placar2015/app/build/intermediates/pre-dexed/debug/gson-2.4-d37ad8e3e8281107d9b3aaebf42b27fe754222fd.jar" />
+    </item>
+    <item
+        jar="/Users/treinamentomobile/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M1/26b2d3262a0c5f8de663deeb6481d132d871fffa/spring-android-core-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="26b2d3262a0c5f8de663deeb6481d132d871fffa">
+        <dex dex="/Users/treinamentomobile/Downloads/android_trainning-master/Brasileirao_Placar2015/app/build/intermediates/pre-dexed/debug/spring-android-core-2.0.0.M1-37c58b42e2db4b9898afb26583beab1defe60894.jar" />
+    </item>
+
+</items>
